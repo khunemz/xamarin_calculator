@@ -1,0 +1,17 @@
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/optimized/
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/bin/iPhoneSimulator/Debug/xamarin_intro.exe.mdb
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/bin/iPhoneSimulator/Debug/xamarin_intro.exe
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/xamarin_intro.exe
+/Users/chutipongroobklom/_code/learn/xamarin/xamarin_intro/xamarin_intro/obj/iPhoneSimulator/Debug/xamarin_intro.exe.mdb

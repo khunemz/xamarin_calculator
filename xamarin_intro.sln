@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin_intro", "xamarin_intro\xamarin_intro.csproj", "{C633D6C3-F96F-460F-B788-BEB843C805E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Release|iPhone.Build.0 = Release|iPhone
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C633D6C3-F96F-460F-B788-BEB843C805E1}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
